@@ -1,0 +1,12 @@
+command: node index.js
+config:
+  web:
+    port: 3000
+description: hello app shamik
+name: mobicom2017-halo60-hello-shamik
+source:
+  type: git
+  url: https://github.com/shamikdesarkar/paradrop_hello
+type: light
+use: node
+version: 1

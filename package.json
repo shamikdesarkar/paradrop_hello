@@ -1,0 +1,8 @@
+{
+  "description": "hello app shamik",
+  "name": "mobicom2017-halo60-hello-shamik",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
